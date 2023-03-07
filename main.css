@@ -1,0 +1,30 @@
+.body {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.input {
+  width: 180px;
+}
+
+.dates {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.small {
+  width: 50px;
+  height: 20px;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+
+.link {
+  text-decoration: none;
+}
